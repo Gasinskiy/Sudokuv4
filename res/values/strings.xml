@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android! 3e",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
+-->
+<resources>
+   <string name="app_name">Судоку</string>
+   <string name="main_title">Судоку для Android</string>
+   <string name="continue_label">Продовжити</string>
+   <string name="new_game_label">Нова гра</string>
+   <string name="about_label">Про програму</string>
+   <string name="exit_label">Вихід</string>
+
+   <string name="settings_label">Налаштування...</string>
+   <string name="settings_title">Налаштування гри</string>
+   <string name="settings_shortcut">s</string>
+   <string name="music_title">Музика</string>
+   <string name="music_summary">Грати фонову музику</string>
+   <string name="hints_title">Поради</string>
+   <string name="hints_summary">Показувати поради під час гри</string>
+
+   <string name="new_game_title">Складність</string>
+   <string name="easy_label">Легкий</string>
+   <string name="medium_label">Середній</string>
+   <string name="hard_label">Тяжкий</string>
+
+   <string name="game_title">Гра</string>
+   <string name="no_moves_label">Немаэ ходів</string>
+   <string name="keypad_title">Клавіатура</string>
+   
+   <string name="about_title">Інформація про гру</string>
+   <string name="about_text">\
+Судоку (яп. 数独, англ. Sudoku) — заснована на логіці японська головоломка з числами.
+Ігрове поле складається з квадрата, розміром 9 × 9, розділеного на менші квадрати 
+(їх ще називають <i>„регіони”</i>) із стороною 3 × 3 клітинки. Таким чином, все поле 
+налічує 81 клітинку. У деяких з них вже на початку гри розташовані числа (від 1 до 9). 
+
+Залежно від того, скільки клітинок вже заповнено, 
+конкретну судоку можна віднести до легких або складних.
+
+Мета головоломки - необхідно заповнити вільні клітинки цифрами від 1 до 9 так, 
+щоб в кожному рядку, в кожному стовпці і в кожному малому квадраті 3×3, 
+кожна цифра зустрічалася лише один раз. Правильна головоломка має лише одне рішення.
+</string>
+</resources>
